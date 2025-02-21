@@ -1,0 +1,1 @@
+worker: python hehe_bot.py 
